@@ -8,7 +8,6 @@ namespace PartialClass
         {
             MyClass obj = new MyClass();
             obj.Details();
-
         }
     }
 }

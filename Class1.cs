@@ -8,9 +8,5 @@ namespace PartialClass
     {
         string Name = "Vishal";
         int EmpNo = 1;
-        //public MyClass()
-        //{
-
-        //}
     }
 }
